@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:location_permissions] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_availability] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/963b686ad436479227cd2dcef559a0bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/866189a0549b2ae2cf2c220acc036765/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/5340723718e7fe3b54ea560e95ca1bb8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/c13863b4482c48d644dd0257a810f3aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/332897fc6828fc5eb8a69fd14c5b045c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cb14322bcb0c53f1941d26128a903c16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/537210920757affc88fb823ca17351ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d1cd7b7fe8ded49836fb7c6b13d7ab31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/86da05e50a68ef503fe1a3c739de76eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4350894388523ace6c89c7079ac5fbb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1dedcc272995c67473b2a3cd4380a819/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/60fd09071330e84f562a67eafd856059/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d8e902282f62676a03bd5d3069cd56e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/379bb86e07ef828646639497c1c36832/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b0848f6145743bcf87e2ed9d67965223/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/405ae91305b37ac8d5f704bd277fb69c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d3258c3e8b9fc9944ba4f0c83f51bf7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/c3707906552ce57950d0d7aeb9db0619/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5285ccf59e0c9e98b25ae717eaa89f42/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3731603be11258a815b83dae33ae962f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/edfb6d24b2bda90dddf4d479822329f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4ac7daeca2825a760eaa30c67946d2cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/84bfdeebd629f2f6a5dad3e5b9883803/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/7d4bc683edab9e5c12d9db744983dc3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/636ab2a2f87e81f67e86b6e25a5dd107/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/300e8fbcb7084209ed41917f46bac0c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/714ce57d21d8877e009b402e833c5ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f27e5a468801ca265a8310de149e83c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/e907ca122fddf966252eebb9ac42a919/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:3:5-81
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:3:22-78
+application
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:10:5-33:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/866189a0549b2ae2cf2c220acc036765/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/866189a0549b2ae2cf2c220acc036765/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/5340723718e7fe3b54ea560e95ca1bb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/5340723718e7fe3b54ea560e95ca1bb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/c13863b4482c48d644dd0257a810f3aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/c13863b4482c48d644dd0257a810f3aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/c3707906552ce57950d0d7aeb9db0619/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/c3707906552ce57950d0d7aeb9db0619/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5285ccf59e0c9e98b25ae717eaa89f42/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5285ccf59e0c9e98b25ae717eaa89f42/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/c3707906552ce57950d0d7aeb9db0619/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:12:9-30
+	android:icon
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:11:9-57
+activity#co.appbrewery.clima.MainActivity
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:18:13-144
+	android:theme
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:15:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:location_permissions] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/963b686ad436479227cd2dcef559a0bf/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/963b686ad436479227cd2dcef559a0bf/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/866189a0549b2ae2cf2c220acc036765/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/866189a0549b2ae2cf2c220acc036765/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/5340723718e7fe3b54ea560e95ca1bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/5340723718e7fe3b54ea560e95ca1bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/c13863b4482c48d644dd0257a810f3aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/c13863b4482c48d644dd0257a810f3aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/332897fc6828fc5eb8a69fd14c5b045c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/332897fc6828fc5eb8a69fd14c5b045c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cb14322bcb0c53f1941d26128a903c16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/cb14322bcb0c53f1941d26128a903c16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/537210920757affc88fb823ca17351ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/537210920757affc88fb823ca17351ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d1cd7b7fe8ded49836fb7c6b13d7ab31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d1cd7b7fe8ded49836fb7c6b13d7ab31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/86da05e50a68ef503fe1a3c739de76eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/86da05e50a68ef503fe1a3c739de76eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4350894388523ace6c89c7079ac5fbb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4350894388523ace6c89c7079ac5fbb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1dedcc272995c67473b2a3cd4380a819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1dedcc272995c67473b2a3cd4380a819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/60fd09071330e84f562a67eafd856059/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/60fd09071330e84f562a67eafd856059/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d8e902282f62676a03bd5d3069cd56e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5d8e902282f62676a03bd5d3069cd56e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/379bb86e07ef828646639497c1c36832/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/379bb86e07ef828646639497c1c36832/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b0848f6145743bcf87e2ed9d67965223/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b0848f6145743bcf87e2ed9d67965223/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/405ae91305b37ac8d5f704bd277fb69c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/405ae91305b37ac8d5f704bd277fb69c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d3258c3e8b9fc9944ba4f0c83f51bf7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/d3258c3e8b9fc9944ba4f0c83f51bf7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/c3707906552ce57950d0d7aeb9db0619/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/c3707906552ce57950d0d7aeb9db0619/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5285ccf59e0c9e98b25ae717eaa89f42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/5285ccf59e0c9e98b25ae717eaa89f42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3731603be11258a815b83dae33ae962f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3731603be11258a815b83dae33ae962f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/edfb6d24b2bda90dddf4d479822329f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/edfb6d24b2bda90dddf4d479822329f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4ac7daeca2825a760eaa30c67946d2cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4ac7daeca2825a760eaa30c67946d2cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/84bfdeebd629f2f6a5dad3e5b9883803/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/84bfdeebd629f2f6a5dad3e5b9883803/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/7d4bc683edab9e5c12d9db744983dc3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/7d4bc683edab9e5c12d9db744983dc3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/636ab2a2f87e81f67e86b6e25a5dd107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/636ab2a2f87e81f67e86b6e25a5dd107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/300e8fbcb7084209ed41917f46bac0c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/300e8fbcb7084209ed41917f46bac0c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/714ce57d21d8877e009b402e833c5ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/714ce57d21d8877e009b402e833c5ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f27e5a468801ca265a8310de149e83c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f27e5a468801ca265a8310de149e83c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/e907ca122fddf966252eebb9ac42a919/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/e907ca122fddf966252eebb9ac42a919/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:geolocator] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:geolocator] /Users/sWimmie/Documents/Tutorials/AppBrewery/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/a88fd2de7cd63a92c2f6161f7446b8ba/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/03203fbea13fa9bff177176dd66ae592/AndroidManifest.xml:24:13-58

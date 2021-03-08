@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85377735464",
+    "firebase_url": "https://flash-chat-e6038.firebaseio.com",
+    "project_id": "flash-chat-e6038",
+    "storage_bucket": "flash-chat-e6038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85377735464:android:fda6df0ee7cbec88",
+        "android_client_info": {
+          "package_name": "nl.swimmie.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85377735464-8ajopssoes92ecppke3v3p22bj20jcfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCj-xgpOrYu8v09bxTaODyMpDcu3ivrdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85377735464-8ajopssoes92ecppke3v3p22bj20jcfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

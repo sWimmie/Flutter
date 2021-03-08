@@ -1,0 +1,502 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/19bab3e33f1de54688037338ca3e1c2e/AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_auth] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/6b251e6a5d5114a0eb00179a07f17758/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:2:1-24:12
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/649494a93985864cdaf83b39382f6018/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b4bf06316cb622322a2b4bed6cb97839/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/84612d5a23df3e79c7917dff9aa4325b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/f6d3ece241733ea8c68b3676f9c7e9ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/ce757e9ba77608b71f4eb371e1369200/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e0cc34d2b901b6a4e68de52e65dcb0a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-16.5.0.aar/7b79baab3ae507796468434e45249099/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.5.0.aar/fc1a5f1c005c7e5bb8d695b5eefead11/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/7c7c96c4c11f9b09687b51af47adadbb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/2cf17e6a0e4a33cfe45b7435e95cc20a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/2816cb3d292f6f19816e7dc3c3091930/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/065b1fe106a4fa933416982f148dc6b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/a1f2e7ffc3032a9a9b4ea55af776dea2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/caace8b7e24dd16be8e753a2ca4d7e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8c95251670415b991b8f25d20c5066bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/ee9e2ef5dba667ecf73b5fad7747919c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/3b530b51c031e2081505c787804cb048/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a2a5676a6aa82f165a97c126effad455/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/e5ec5a747135b74268e850dd1636836e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/81080a97a3defd71406ec0144e4e5c9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/f1fe801820608a2c15e63ed4ba757467/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/f731a1881de7496c8f00385386f5acdd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/5b2a6ae438d675feca40a92049ab4dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/b8ac8dd5966d87b8188235ab1d0b83a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/66dae524e6e0ddc8c0913842071a7056/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/3b58c21e08536023d1031dc57b62a016/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/a38b375b9fbaa796e2bbfa77869da4c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/001ca69f842cfe83cfb576c2515c697b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/1488a53fc761585fb1d87af004cdf598/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/36f80ed9d40a9142882f1cd333a19be6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/1190ca3032a97b1ec7170f358e0f7a79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/78bd630eb8c21664196aff5b01b7fc79/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/06f96fcc6637acf4fd0b3a1fed3bcd9c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/27b63d4e375213370c74ae088834197e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/9e7c51ff21df6e5d24b867c383c7b5ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/2cbfb8d181323501921d0fbb766769b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/48fa0184b313bae67dee4d04dccb3294/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/6b251e6a5d5114a0eb00179a07f17758/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/6b251e6a5d5114a0eb00179a07f17758/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b4bf06316cb622322a2b4bed6cb97839/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b4bf06316cb622322a2b4bed6cb97839/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/84612d5a23df3e79c7917dff9aa4325b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/84612d5a23df3e79c7917dff9aa4325b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/ce757e9ba77608b71f4eb371e1369200/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/ce757e9ba77608b71f4eb371e1369200/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e0cc34d2b901b6a4e68de52e65dcb0a3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e0cc34d2b901b6a4e68de52e65dcb0a3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-16.5.0.aar/7b79baab3ae507796468434e45249099/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-16.5.0.aar/7b79baab3ae507796468434e45249099/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.5.0.aar/fc1a5f1c005c7e5bb8d695b5eefead11/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.5.0.aar/fc1a5f1c005c7e5bb8d695b5eefead11/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/7c7c96c4c11f9b09687b51af47adadbb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/7c7c96c4c11f9b09687b51af47adadbb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/2cf17e6a0e4a33cfe45b7435e95cc20a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/2cf17e6a0e4a33cfe45b7435e95cc20a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/2816cb3d292f6f19816e7dc3c3091930/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/2816cb3d292f6f19816e7dc3c3091930/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/66dae524e6e0ddc8c0913842071a7056/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/66dae524e6e0ddc8c0913842071a7056/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/3b58c21e08536023d1031dc57b62a016/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/3b58c21e08536023d1031dc57b62a016/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/66dae524e6e0ddc8c0913842071a7056/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#co.appbrewery.flash_chat.MainActivity
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/19bab3e33f1de54688037338ca3e1c2e/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/19bab3e33f1de54688037338ca3e1c2e/AndroidManifest.xml:20:5-43
+MERGED from [:firebase_auth] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/6b251e6a5d5114a0eb00179a07f17758/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/6b251e6a5d5114a0eb00179a07f17758/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/649494a93985864cdaf83b39382f6018/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/649494a93985864cdaf83b39382f6018/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b4bf06316cb622322a2b4bed6cb97839/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b4bf06316cb622322a2b4bed6cb97839/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/84612d5a23df3e79c7917dff9aa4325b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/84612d5a23df3e79c7917dff9aa4325b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/f6d3ece241733ea8c68b3676f9c7e9ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/f6d3ece241733ea8c68b3676f9c7e9ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/ce757e9ba77608b71f4eb371e1369200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/ce757e9ba77608b71f4eb371e1369200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e0cc34d2b901b6a4e68de52e65dcb0a3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/e0cc34d2b901b6a4e68de52e65dcb0a3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-16.5.0.aar/7b79baab3ae507796468434e45249099/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-16.5.0.aar/7b79baab3ae507796468434e45249099/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.5.0.aar/fc1a5f1c005c7e5bb8d695b5eefead11/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.5.0.aar/fc1a5f1c005c7e5bb8d695b5eefead11/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/7c7c96c4c11f9b09687b51af47adadbb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/7c7c96c4c11f9b09687b51af47adadbb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/2cf17e6a0e4a33cfe45b7435e95cc20a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/2cf17e6a0e4a33cfe45b7435e95cc20a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/2816cb3d292f6f19816e7dc3c3091930/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/2816cb3d292f6f19816e7dc3c3091930/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/065b1fe106a4fa933416982f148dc6b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/065b1fe106a4fa933416982f148dc6b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/a1f2e7ffc3032a9a9b4ea55af776dea2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/a1f2e7ffc3032a9a9b4ea55af776dea2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/caace8b7e24dd16be8e753a2ca4d7e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/caace8b7e24dd16be8e753a2ca4d7e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8c95251670415b991b8f25d20c5066bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8c95251670415b991b8f25d20c5066bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/ee9e2ef5dba667ecf73b5fad7747919c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/ee9e2ef5dba667ecf73b5fad7747919c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/3b530b51c031e2081505c787804cb048/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/3b530b51c031e2081505c787804cb048/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a2a5676a6aa82f165a97c126effad455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a2a5676a6aa82f165a97c126effad455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/e5ec5a747135b74268e850dd1636836e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/e5ec5a747135b74268e850dd1636836e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/81080a97a3defd71406ec0144e4e5c9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/81080a97a3defd71406ec0144e4e5c9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/f1fe801820608a2c15e63ed4ba757467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/f1fe801820608a2c15e63ed4ba757467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/f731a1881de7496c8f00385386f5acdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/f731a1881de7496c8f00385386f5acdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/5b2a6ae438d675feca40a92049ab4dd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/5b2a6ae438d675feca40a92049ab4dd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/b8ac8dd5966d87b8188235ab1d0b83a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/b8ac8dd5966d87b8188235ab1d0b83a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/66dae524e6e0ddc8c0913842071a7056/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/66dae524e6e0ddc8c0913842071a7056/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/3b58c21e08536023d1031dc57b62a016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/3b58c21e08536023d1031dc57b62a016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/a38b375b9fbaa796e2bbfa77869da4c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/a38b375b9fbaa796e2bbfa77869da4c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/001ca69f842cfe83cfb576c2515c697b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/001ca69f842cfe83cfb576c2515c697b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/1488a53fc761585fb1d87af004cdf598/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/1488a53fc761585fb1d87af004cdf598/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/36f80ed9d40a9142882f1cd333a19be6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/36f80ed9d40a9142882f1cd333a19be6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/1190ca3032a97b1ec7170f358e0f7a79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/1190ca3032a97b1ec7170f358e0f7a79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/78bd630eb8c21664196aff5b01b7fc79/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/78bd630eb8c21664196aff5b01b7fc79/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/06f96fcc6637acf4fd0b3a1fed3bcd9c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/06f96fcc6637acf4fd0b3a1fed3bcd9c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/27b63d4e375213370c74ae088834197e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/27b63d4e375213370c74ae088834197e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/9e7c51ff21df6e5d24b867c383c7b5ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/9e7c51ff21df6e5d24b867c383c7b5ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/2cbfb8d181323501921d0fbb766769b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/2cbfb8d181323501921d0fbb766769b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/48fa0184b313bae67dee4d04dccb3294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/48fa0184b313bae67dee4d04dccb3294/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/sWimmie/Documents/Tutorials/AppBrewery/flash-chat-flutter/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-123
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/c4d6e4f0d230dd23d9e4ec5c5f47bc42/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/649494a93985864cdaf83b39382f6018/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/649494a93985864cdaf83b39382f6018/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:13:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/a807285938fc759cafaf38879e2dbdc6/AndroidManifest.xml:19:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/d77cf05ff585e8700acff2c9909ce372/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/9d9e7532e7427cda700817be1f0db789/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/b3e7ebeb3349264e6565aa734ddb4b15/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ef1d3bec0cb98c627af4ec7cda817622/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/a5bb1da36789fc188345149dbb27e96d/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/9cd4dd6767483ed12dd528d1fec9c26b/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/eda8fecf746bba31949d4155c49b5dcd/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sWimmie/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/89476efd1a626df639b7fffdc68cb8b9/AndroidManifest.xml:24:13-58
